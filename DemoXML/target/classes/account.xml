@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<account id="1">
+    <name>nam</name>
+    <password>1234</password>
+    <phones>
+        <phone>123</phone>
+        <phone>456</phone>
+    </phones>
+</account>
